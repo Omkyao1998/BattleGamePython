@@ -1,6 +1,6 @@
 # Turn-Based Battle Game (Python OOP)
 
-A text-based, turn-based RPG battle in the terminal: a party of three heroes fights three enemies using attacks, magic and items. I built it to practise object-oriented design in Python.
+A text-based, turn-based RPG battle in the terminal: a party of three heroes fights three enemies using attacks, magic and items. I built it to practise object-oriented design in Python, following a Python OOP tutorial by **nickhermaine**.
 
 ## How it plays
 
